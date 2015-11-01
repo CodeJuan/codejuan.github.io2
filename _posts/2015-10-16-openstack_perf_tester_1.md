@@ -29,7 +29,7 @@ description:
 ## 概念
 AMQP是一种异步消息协议，在分布式系统就被大量使用。其传递流程可以大致理解成下图
 
-![](https://github.com/CodeJuan/codejuan.github.io/blob/master/images/blog/amqp/hello-world-example-routing.png)
+![](https://github.com/CodeJuan/codejuan.github.io/raw/master/images/blog/amqp/hello-world-example-routing.png)
 ```
 producer->broker->consumer
 ```
