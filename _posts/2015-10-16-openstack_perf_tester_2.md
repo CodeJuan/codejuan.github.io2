@@ -49,7 +49,7 @@ oslo_messaging/transport-->common/rpc:return transport
 ```
 
 
-![](https://github.com/CodeJuan/codejuan.github.io/blob/master/images/blog/amqp/1.png)
+![](https://github.com/CodeJuan/codejuan.github.io/raw/master/images/blog/amqp/1.png)
 
 
 ## neutron/plugins/ml2/drivers/openvswitch/agent/ovs_neutron_agent.py
@@ -66,7 +66,7 @@ oslo_messaging/rpc/client-->common/rpc: return RPCClient
 common/rpc-->PluginApi: return client
 ```
 
-![](https://github.com/CodeJuan/codejuan.github.io/blob/master/images/blog/amqp/2.png)
+![](https://github.com/CodeJuan/codejuan.github.io/raw/master/images/blog/amqp/2.png)
 
 
 ## call
@@ -96,7 +96,7 @@ oslo_messaging/rpc/client._CallContext-->PluginApi: return
 PluginApi-->OVSPluginApi.plugin_rpc: return
 ```
 
-![](https://github.com/CodeJuan/codejuan.github.io/blob/master/images/blog/amqp/3.png)
+![](https://github.com/CodeJuan/codejuan.github.io/raw/master/images/blog/amqp/3.png)
 
 
 
