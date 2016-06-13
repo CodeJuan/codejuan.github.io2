@@ -1,10 +1,12 @@
 .post table{
     border-top:2px solid #777;
     border-bottom: 2px solid #777;
+    border: 1px solid #777;
     margin: 8px 0;
 }
 .post table thead{
     border-bottom: 1px dashed #777;
+    border: 1px solid #777;
     background-color: #aaa;
     color:#fff;
 }
@@ -13,6 +15,7 @@
     border:1px solid #C1C1C1;
 }
 .post table tr:nth-child(2n){
+    border: 1px solid #777;
     background-color: #E5EAED;
 }
 .post table td{
